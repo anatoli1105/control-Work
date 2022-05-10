@@ -1,0 +1,15 @@
+C:\Users\анатолий\Desktop\Work\decision\bin\Debug\net6.0\decision.exe
+C:\Users\анатолий\Desktop\Work\decision\bin\Debug\net6.0\decision.deps.json
+C:\Users\анатолий\Desktop\Work\decision\bin\Debug\net6.0\decision.runtimeconfig.json
+C:\Users\анатолий\Desktop\Work\decision\bin\Debug\net6.0\decision.dll
+C:\Users\анатолий\Desktop\Work\decision\bin\Debug\net6.0\decision.pdb
+C:\Users\анатолий\Desktop\Work\decision\obj\Debug\net6.0\decision.csproj.AssemblyReference.cache
+C:\Users\анатолий\Desktop\Work\decision\obj\Debug\net6.0\decision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\анатолий\Desktop\Work\decision\obj\Debug\net6.0\decision.AssemblyInfoInputs.cache
+C:\Users\анатолий\Desktop\Work\decision\obj\Debug\net6.0\decision.AssemblyInfo.cs
+C:\Users\анатолий\Desktop\Work\decision\obj\Debug\net6.0\decision.csproj.CoreCompileInputs.cache
+C:\Users\анатолий\Desktop\Work\decision\obj\Debug\net6.0\decision.dll
+C:\Users\анатолий\Desktop\Work\decision\obj\Debug\net6.0\refint\decision.dll
+C:\Users\анатолий\Desktop\Work\decision\obj\Debug\net6.0\decision.pdb
+C:\Users\анатолий\Desktop\Work\decision\obj\Debug\net6.0\decision.genruntimeconfig.cache
+C:\Users\анатолий\Desktop\Work\decision\obj\Debug\net6.0\ref\decision.dll
